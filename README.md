@@ -241,7 +241,7 @@ If these WSL experiments, scripts or desktop guides are useful, consider giving 
 
 <br>
 
-<img width="1000" height="300" alt="AlmaLinux" src="https://github.com/user-attachments/assets/d2f6da7c-248b-41f0-9bcc-475791a1f690" />
+<img width="1200" alt="AlmaLinux 10 on WSL footer" src="./assets/almalinux-10-wsl-footer.jpg" />
 
 <br>
 
