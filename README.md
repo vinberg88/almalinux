@@ -235,13 +235,13 @@ If these WSL experiments, scripts or desktop guides are useful, consider giving 
 
 ### AlmaLinux + WSL2 + Linux Desktops
 
-**Built and tested by Mattias Vinberg — Sweden 🇸🇪**
+**Built and tested by Mattias Vinberg — Sweden Stockholm 🇸🇪**
 
 [GitHub](https://github.com/vinberg88)
 
 <br>
 
-<img width="1200" alt="AlmaLinux 10 on WSL footer" src="./assets/almalinux-10-wsl-footer.jpg" />
+<img width="1200" alt="AlmaLinux 10 on WSL footer" src="https://github.com/user-attachments/assets/05086396-f630-4e15-944a-eacd98dfc2b7" />
 
 <br>
 
