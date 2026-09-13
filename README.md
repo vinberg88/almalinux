@@ -25,7 +25,7 @@ Run a clean **AlmaLinux 10** environment inside **WSL2**, then build your prefer
 
 | Desktop | Status | Display / Session | Guide |
 |:---|:---:|:---|:---:|
-| 💠 **KDE Plasma 6** | ✅ Working | X410 / X11 | 🚧 Coming |
+| 💠 **KDE Plasma 6** | ✅ Working | X410 / X11 | 🚧 Coming | - DONE
 | 🌀 **GNOME** | 🧪 Testing | WSLg / X11 / Wayland | 🚧 Coming |
 | 🐭 **Xfce** | 🔜 Planned | X11 | 🚧 Coming |
 | 🟢 **MATE** | 🔜 Planned | X11 | 🚧 Coming |
@@ -65,9 +65,9 @@ The repository will gradually contain:
 
 Download ALMALINUX 10 HERE FOR WSL: https://github.com/vinberg88/almalinux/releases
 
-How to Install KDE 6 via AlmaLinux 10 - WSL - TEXT VIA GITHUB: Comming SONE.
+How to Install KDE 6 via AlmaLinux 10 - TEXT VIA GITHUB: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-KDE6.txt
 
-How to install KDE 6 via AlmaLinux 10 - WSL - MOVIE VIA YOUTUBE: Comming SONE.
+How to install KDE 6 via AlmaLinux 10 - MOVIE VIA YOUTUBE: https://www.youtube.com/watch?v=i6U-nmA_kS8
 
 ### ✅ Tested and working on AlmaLinux 10
 
