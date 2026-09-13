@@ -59,7 +59,7 @@ The repository will gradually contain:
 - 📸 Screenshots and examples
 
 ---
-# 💠 KDE 6 FOR ALMALINUX - WSL
+# 💠 KDE 6 PLASMA FOR ALMALINUX 10 - WSL
 
 Comming SONE - Text and Video - How to install KDE 6 via ALMALINUX 10
 
