@@ -237,7 +237,7 @@ If these WSL experiments, scripts or desktop guides are useful, consider giving 
 
 **Built and tested by Mattias Vinberg — Sweden 🇸🇪**
 
-[GitHub](https://github.com/vinberg88) • [AlmaLinux](https://almalinux.org/)
+[GitHub](https://github.com/vinberg88)
 
 <br>
 
