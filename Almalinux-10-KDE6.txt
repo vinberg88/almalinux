@@ -3,7 +3,7 @@ ALMALINUX 10 and KDE 6 - WSL - How to tnstall KDE 6 via ALMALINUX 10 - Windows 1
 ❤ Thank you for being a part of AlmaLinux 10.2 and KDE 6 for WSL2 ❤
 
 How to install KDE 6 via AlmaLinux 10 and Windows 11 - WSL - TEXT VIA GITHUB
-Comming SONE...
+https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-KDE6.txt
 
 How to install KDE 6 via AlmaLinux 10 and Windows 11 - WSL - MOVIE VIA YOUTUBE
 https://www.youtube.com/watch?v=i6U-nmA_kS8
