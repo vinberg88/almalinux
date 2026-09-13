@@ -61,6 +61,16 @@ The repository will gradually contain:
 ---
 # 💠 KDE 6 FOR ALMALINUX - WSL
 
+Comming SONE - Text and Video - How to install KDE 6 via ALMALINUX 10
+
+<img width="1920" height="1080" alt="Almalinux-10-KDE6" src="https://github.com/user-attachments/assets/edf8aa35-d293-4352-bd0a-7942c2554fa2" />
+
+Download ALMALINUX 10 HERE:  https://github.com/vinberg88/almalinux
+
+How to Install KDE 6 via AlmaLinux 10 - WSL - TEXT VIA GITHUB: Comming SONE.
+
+How to install KDE 6 via AlmaLinux 10 - WSL - MOVIE VIA YOUTUBE: Comming SONE.
+
 ### ✅ Tested and working on AlmaLinux 10
 
 KDE Plasma 6 works very well with **X410** when the complete Plasma session is forced onto the external X server.
