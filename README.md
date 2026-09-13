@@ -4,7 +4,7 @@
 
 # 🌀 ALMALINUX 10 for WSL image - Maybe i will put Almalinux 9 here to and build some desktops.
 
-###Run a clean ALMALINUX base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Cinnamon and more.
+###Run a clean ALMALINUX base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Mate and more.
 
 [![Release](https://img.shields.io/github/v/release/vinberg88/debian?label=Release)](https://github.com/vinberg88/almalinux/releases/latest)
 [![GitHub](https://img.shields.io/badge/GitHub-vinberg88-181717?logo=github)](https://github.com/vinberg88)
