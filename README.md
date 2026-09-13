@@ -2,7 +2,7 @@
 
 <center><img width="900" height="180" alt="almalinux-wsl-logo-header" src="https://github.com/user-attachments/assets/204cf661-6417-4b4b-86e2-8de93e8dd971" /></center>
 
-# 🌀 ALMALINUX 10 for WSL image - Maybe i will put Almalinux 9 here to and build some desktops.
+# 🌀 ALMALINUX 10 for WSL - Build Desktop rhat you like =)
 
 ###Run a clean ALMALINUX base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Mate and more.
 
