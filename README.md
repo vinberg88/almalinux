@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="900" height="180" alt="AlmaLinux WSL" src="https://github.com/user-attachments/assets/204cf661-6417-4b4b-86e2-8de93e8dd971" />
+<img width="1200" alt="AlmaLinux 10 for WSL" src="./assets/almalinux-10-wsl-banner.svg" />
 
 # 🌀 AlmaLinux 10 for WSL
 
