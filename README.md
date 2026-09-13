@@ -65,7 +65,7 @@ The repository will gradually contain:
 
 Download ALMALINUX 10 HERE FOR WSL: https://github.com/vinberg88/almalinux/releases
 
-How to Install KDE 6 via AlmaLinux 10 - TEXT VIA GITHUB: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-KDE6.txt
+Install KDE 6 via AlmaLinux 10 VIA GITHUB: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-KDE6.txt
 
 How to install KDE 6 via AlmaLinux 10 - MOVIE VIA YOUTUBE: https://www.youtube.com/watch?v=i6U-nmA_kS8
 
