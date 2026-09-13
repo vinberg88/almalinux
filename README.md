@@ -63,7 +63,7 @@ The repository will gradually contain:
 
 <img width="1920" height="1080" alt="Almalinux-10-KDE6" src="https://github.com/user-attachments/assets/edf8aa35-d293-4352-bd0a-7942c2554fa2" />
 
-Download ALMALINUX 10 HERE:  https://github.com/vinberg88/almalinux
+Download ALMALINUX 10 HERE FOR WSL: https://github.com/vinberg88/almalinux/releases
 
 How to Install KDE 6 via AlmaLinux 10 - WSL - TEXT VIA GITHUB: Comming SONE.
 
