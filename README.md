@@ -1,4 +1,4 @@
-# AlmaLinux 10 - WSL image for download and setup desktops
+# AlmaLinux 10 - WSL image for downloads - 2026
 
 Download AlmaLinux 10 here for WSL: *https://github.com/vinberg88/almalinux/releases/tag/10.2
 
