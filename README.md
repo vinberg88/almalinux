@@ -1,82 +1,250 @@
 <div align="center">
 
-<center><img width="900" height="180" alt="almalinux-wsl-logo-header" src="https://github.com/user-attachments/assets/204cf661-6417-4b4b-86e2-8de93e8dd971" /></center>
+<img width="900" height="180" alt="AlmaLinux WSL" src="https://github.com/user-attachments/assets/204cf661-6417-4b4b-86e2-8de93e8dd971" />
 
-# 🌀 ALMALINUX 10 for WSL - Build Desktop that you like =)
+# 🌀 AlmaLinux 10 for WSL
 
-###Run a clean ALMALINUX base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Mate and more.
+### Build the Linux desktop you want on Windows
 
-[![Release](https://img.shields.io/github/v/release/vinberg88/debian?label=Release)](https://github.com/vinberg88/almalinux/releases/latest)
+Run a clean **AlmaLinux 10** environment inside **WSL2**, then build your preferred desktop environment on top of it.
+
+**KDE Plasma • GNOME • Xfce • MATE • Cinnamon • and more**
+
+[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-10-000000?logo=almalinux&logoColor=white)](https://almalinux.org/)
+[![WSL](https://img.shields.io/badge/Windows-WSL2-0078D4?logo=windows11&logoColor=white)](https://learn.microsoft.com/windows/wsl/)
+[![Release](https://img.shields.io/github/v/release/vinberg88/almalinux?label=Release)](https://github.com/vinberg88/almalinux/releases/latest)
 [![GitHub](https://img.shields.io/badge/GitHub-vinberg88-181717?logo=github)](https://github.com/vinberg88)
 
 </div>
 
-Download AlmaLinux 10 here for WSL: https://github.com/vinberg88/almalinux
+---
 
-Find More desktops for Linux and WSL: https://github.com/vinberg88/opensuse
+# 🖥️ Desktop environments
 
-Look here for other desktops via WSL related projects: https://github.com/vinberg88
+> **This is the main focus of the repository.** Each desktop will get its own installation guide, launcher notes, screenshots and WSL-specific fixes as testing continues.
 
-Will build so every Linux distro has it own repo for desktops and other stuff - THIS WILL TACK SOME TIME TO BUILD FOR WSL - 2026
-
-AlmaLinux 10 - Build different desktops via AlmaLinux and WSL - AlmaLinux is a community-driven, enterprise-grade Linux distribution binary compatible with RHEL (Red Hat Enterprise Linux). It's built to be a drop-in replacement for CentOS, offering long-term stability, predictable releases, and a rock-solid foundation for both servers and desktops. AlmaLinux 10 brings the latest RHEL 10 codebase to WSL, giving you a stable, enterprise-ready environment without leaving Windows.
-
-AlmaLinux OS is stewarded by the AlmaLinux OS Foundation and used daily by sysadmins, developers, and enterprises who need a dependable, security-focused RPM-based platform. It's fully open source, free forever, and backed by an active community.
-
-Look here for other desktops via WSL (old / related projects): [https://github.com/vinberg88](https://github.com/vinberg88)
-
-## HERE I WILL PRESENT SOME DESKTOPS THAT WORK WELL VIA ALMALINUX 10 - Latest version.
-
-### GNOME
-
-Install GNOME desktop via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-GNOME.txt)*
-
-*(screenshot here)*
-
-### KDE Plasma
-
-Install KDE Plasma via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-KDE.txt)*
-
-*(screenshot here)*
-
-### MATE
-
-Install MATE desktop via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-MATE.txt)*
-
-*(screenshot here)*
-
-### Xfce
-
-Install Xfce desktop via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-XFCE.txt)*
-
-*(screenshot here)*
-
-### Cinnamon
-
-Install Cinnamon desktop via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-CINNAMON.txt)*
-
-*(screenshot here)*
+| Desktop | Status | Display / Session | Guide |
+|:---|:---:|:---|:---:|
+| 💠 **KDE Plasma 6** | ✅ Working | X410 / X11 | 🚧 Coming |
+| 🌀 **GNOME** | 🧪 Testing | WSLg / X11 / Wayland | 🚧 Coming |
+| 🐭 **Xfce** | 🔜 Planned | X11 | 🚧 Coming |
+| 🟢 **MATE** | 🔜 Planned | X11 | 🚧 Coming |
+| 🍥 **Cinnamon** | 🔜 Planned | X11 | 🚧 Coming |
+| 🐦 **Budgie** | 🔜 Planned | X11 | 🚧 Coming |
+| 🌌 **Deepin Desktop** | 🔜 Planned | X11 / Wayland experiments | 🚧 Coming |
+| 🧩 **More desktops** | 🔜 Planned | WSLg / X410 | 🚧 Coming |
 
 ---
 
-## Why AlmaLinux 10 on WSL?
+## 🚀 About this project
 
-- 100% RHEL 10 binary compatible - test enterprise workloads locally
-- Long-term support and predictable release cycle
-- A stable, minimal base that's easy to build any desktop environment on top of
-- Great for developers who work with RHEL/CentOS-based production systems
+This repository is dedicated to running **AlmaLinux 10 on Windows Subsystem for Linux 2** and experimenting with complete Linux desktop environments.
 
-## Requirements
+The idea is simple:
 
-- Windows 10/11 with WSL2 enabled
-- WSLg (built into recent Windows builds) for GUI apps, or an X server (VcXsrv/X410) as an alternative
+> Start with a clean AlmaLinux base and install the desktop environment you actually want.
+
+AlmaLinux provides a stable, enterprise-grade, RHEL-compatible RPM-based foundation while WSL2 makes it possible to run Linux directly alongside Windows.
+
+The repository will gradually contain:
+
+- 🖥️ Desktop installation guides
+- 🚀 Desktop launch scripts
+- 🪟 X410 and X11 configuration
+- 🧊 WSLg configuration
+- 🔊 Audio fixes and notes
+- ⚙️ systemd integration
+- 🧪 Wayland experiments
+- 🛠️ WSL-specific troubleshooting
+- 📸 Screenshots and examples
 
 ---
 
-Regards Mattias Vinberg - SWEDEN - MAIL: mattiasvinberg@duck.com - Find me: [https://github.com/vinberg88](https://github.com/vinberg88) - 2026
+# 💠 KDE Plasma 6
 
-<img width="1000" height="300" alt="AlmaLinuxlogo" src="https://github.com/user-attachments/assets/d2f6da7c-248b-41f0-9bcc-475791a1f690" />
+### ✅ Tested and working on AlmaLinux 10
 
+KDE Plasma 6 works very well with **X410** when the complete Plasma session is forced onto the external X server.
 
- 
+This avoids the common WSL situation where parts of Plasma open through **WSLg** while other parts appear inside **X410**.
 
+Example launcher:
+
+```bash
+kde6-x410 start
+```
+
+Planned KDE content:
+
+- KDE Plasma 6 installation guide
+- X410 launcher
+- WSLg isolation
+- Audio configuration
+- Full Plasma desktop session
+- Troubleshooting
+- Screenshots
+
+---
+
+# 🌀 GNOME
+
+GNOME testing will focus on both traditional and modern display configurations.
+
+Planned GNOME content:
+
+- GNOME installation
+- GNOME session launcher
+- X410 testing
+- WSLg testing
+- X11 sessions
+- Mutter / nested Wayland
+- Audio
+- Display configuration
+
+---
+
+# 🐭 Xfce
+
+A lightweight desktop environment that should be especially suitable for WSL and external X servers.
+
+**Status:** 🔜 Planned
+
+---
+
+# 🟢 MATE
+
+A traditional Linux desktop with relatively low resource usage and good X11 compatibility.
+
+**Status:** 🔜 Planned
+
+---
+
+# 🍥 Cinnamon
+
+The Cinnamon desktop will also be tested with AlmaLinux under WSL2.
+
+**Status:** 🔜 Planned
+
+---
+
+# 🐦 Budgie
+
+Budgie is planned as another desktop option for testing on the AlmaLinux WSL base.
+
+**Status:** 🔜 Planned
+
+---
+
+# 🌌 Deepin Desktop
+
+Deepin Desktop Environment will be explored if suitable packages and dependencies are available for AlmaLinux 10.
+
+**Status:** 🔜 Planned / Experimental
+
+---
+
+## 🧰 Why AlmaLinux on WSL?
+
+Using AlmaLinux inside WSL gives you a useful environment for development, Linux administration and desktop experiments:
+
+- 🏢 Enterprise-oriented Linux environment inside Windows
+- 📦 RPM / DNF package management
+- ⚙️ `systemd` support through modern WSL
+- 🐧 Full Linux command-line environment
+- 🖥️ Linux GUI applications through WSLg
+- 🪟 Full desktop experiments through X servers such as X410
+- 🔧 Good environment for RHEL-compatible development and testing
+- 🧪 A clean platform for experimenting with different desktops
+
+---
+
+## ✅ Requirements
+
+Recommended environment:
+
+- Windows 11
+- WSL2
+- `systemd` enabled
+- AlmaLinux 10
+- WSLg for individual Linux GUI applications
+- X410 or another X server for full X11 desktop sessions
+
+Check your WSL installation from PowerShell:
+
+```powershell
+wsl --version
+wsl --status
+wsl -l -v
+```
+
+---
+
+## 📥 AlmaLinux for WSL
+
+This repository:
+
+**https://github.com/vinberg88/almalinux**
+
+The project will continue to grow as more desktop environments are installed, tested and documented.
+
+---
+
+## 🌍 More Linux + WSL desktop projects
+
+I am building similar desktop projects for several Linux distributions.
+
+### GitHub
+
+**https://github.com/vinberg88**
+
+### openSUSE desktop experiments
+
+**https://github.com/vinberg88/opensuse**
+
+More distributions, launchers and desktop guides will be added during **2026**.
+
+---
+
+## 🧪 Project philosophy
+
+The goal is not simply to turn WSL into a traditional virtual machine.
+
+The goal is to explore how far modern Linux desktops can be pushed inside WSL while keeping useful Windows integration:
+
+- Windows + Linux side by side
+- Linux `systemd`
+- WSLg audio
+- X11 / X410
+- Wayland experiments
+- Desktop launch scripts
+- Reproducible configurations
+
+Some desktops work almost perfectly.
+
+Others require a little Linux magic. 🪄🐧
+
+---
+
+## ⭐ Support the project
+
+If these WSL experiments, scripts or desktop guides are useful, consider giving the repository a **⭐ Star**.
+
+---
+
+<div align="center">
+
+### AlmaLinux + WSL2 + Linux Desktops
+
+**Built and tested by Mattias Vinberg — Sweden 🇸🇪**
+
+[GitHub](https://github.com/vinberg88) • [AlmaLinux](https://almalinux.org/)
+
+<br>
+
+<img width="1000" height="300" alt="AlmaLinux" src="https://github.com/user-attachments/assets/d2f6da7c-248b-41f0-9bcc-475791a1f690" />
+
+<br>
+
+**2026**
+
+</div>
