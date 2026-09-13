@@ -25,7 +25,7 @@ Run a clean **AlmaLinux 10** environment inside **WSL2**, then build your prefer
 
 | Desktop | Status | Display / Session | Guide |
 |:---|:---:|:---|:---:|
-| 💠 **KDE Plasma 6** | ✅ Working | X410 / X11 | 🚧 Coming | - DONE
+| 💠 **KDE Plasma 6** | ✅ Working | X410 / X11 | DONE AND WORKING |
 | 🌀 **GNOME** | 🧪 Testing | WSLg / X11 / Wayland | 🚧 Coming |
 | 🐭 **Xfce** | 🔜 Planned | X11 | 🚧 Coming |
 | 🟢 **MATE** | 🔜 Planned | X11 | 🚧 Coming |
