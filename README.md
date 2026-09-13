@@ -60,7 +60,7 @@ Install Cinnamon desktop via AlmaLinux 10 *(link to your guide, e.g. ALMA-10-CIN
 
 Regards Mattias Vinberg - SWEDEN - MAIL: mattiasvinberg@duck.com - Find me: [https://github.com/vinberg88](https://github.com/vinberg88) - 2026
 
-<img width="1000" height="200" alt="AlmaLinuxlogo" src="https://github.com/user-attachments/assets/d2f6da7c-248b-41f0-9bcc-475791a1f690" />
+<img width="1000" height="300" alt="AlmaLinuxlogo" src="https://github.com/user-attachments/assets/d2f6da7c-248b-41f0-9bcc-475791a1f690" />
 
 
  
