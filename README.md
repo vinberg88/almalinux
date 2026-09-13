@@ -1,18 +1,14 @@
 <div align="center">
 
- # AlmaLinux 10 - WSL image for downloads - 2026
-
 <center><img width="900" height="180" alt="almalinux-wsl-logo-header" src="https://github.com/user-attachments/assets/204cf661-6417-4b4b-86e2-8de93e8dd971" /></center>
 
-# 🌀 ALMALINUX 10 for WSL image - Maybe i will put Almalinux 9 here to.
+# 🌀 ALMALINUX 10 for WSL image - Maybe i will put Almalinux 9 here to and build some desktops.
 
-### Debian 13 & Debian 14 for Windows Subsystem for Linux
-
-Run a clean Debian base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Cinnamon and more.
+###Run a clean ALMALINUX base inside **WSL2**, then build the desktop environment you want — GNOME, KDE Plasma, XFCE, Cinnamon and more.
 There will come more desktops - First desk is there - Debian 14 and KDE 6 Plasma.
 
 [![Release](https://img.shields.io/github/v/release/vinberg88/debian?label=Release)](https://github.com/vinberg88/almalinux/releases/latest))
-[![GitHub](https://img.shields.io/badge/GitHub-vinberg88-181717?logo=github)](https://github.com/vinberg88)
+[![GitHub](https://img.shields.io/badge/GitHub-vinberg88-181717?logo=github)](https://github.com/vinberg88))
 
 </div>
 
