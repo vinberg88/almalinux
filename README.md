@@ -1,6 +1,6 @@
-# AlmaLinux 10 - WSL image for download and setup desktops
+# AlmaLinux 10 - WSL image for download and setup desktops fow Windows
 
-Download AlmaLinux 10 here for WSL: *(AlmaLinux 10 https://github.com/vinberg88/almalinux/releases/tag/10.2)*
+Download AlmaLinux 10 here for WSL: *https://github.com/vinberg88/almalinux/releases/tag/10.2
 
 AlmaLinux 10 - Build different desktops via AlmaLinux and WSL - AlmaLinux is a community-driven, enterprise-grade Linux distribution binary compatible with RHEL (Red Hat Enterprise Linux). It's built to be a drop-in replacement for CentOS, offering long-term stability, predictable releases, and a rock-solid foundation for both servers and desktops. AlmaLinux 10 brings the latest RHEL 10 codebase to WSL, giving you a stable, enterprise-ready environment without leaving Windows.
 
