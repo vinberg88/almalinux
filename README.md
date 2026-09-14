@@ -93,20 +93,30 @@ Planned KDE content:
 
 ---
 
-# 🌀 GNOME
+# 🌀 GNOME AND ALMALINUX 10.2 - WSL
+
+<img width="1920" height="1080" alt="Almalinux-10-GNOME" src="https://github.com/user-attachments/assets/51d13e86-c003-49a3-ab17-f81b4059b111" />
+
+Download ALMALINUX 10 HERE FOR WSL: https://github.com/vinberg88/almalinux/releases
+
+Install GNOME via AlmaLinux and GITHUB: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-GNOME.txt
+
+How to install GNOME via AlmaLinux 10 - MOVIE VIA YOUTUBE: https://www.youtube.com/watch?v=romOjF4nSlY
+
+Planned GNOME content - Tested - OK - 2026
+
+- GNOME installation ✅
+- GNOME session launcher ✅
+- X410 testing ✅
+- WSLg testing ✅
+- X11 sessions ✅
+- Mutter / nested Wayland ✅
+- Audio ✅
+- Display configuration ✅
+
+### ✅ Tested and working on AlmaLinux 10 and GNOME.
 
 GNOME testing will focus on both traditional and modern display configurations.
-
-Planned GNOME content:
-
-- GNOME installation
-- GNOME session launcher
-- X410 testing
-- WSLg testing
-- X11 sessions
-- Mutter / nested Wayland
-- Audio
-- Display configuration
 
 ---
 
