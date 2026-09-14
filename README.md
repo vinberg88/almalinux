@@ -99,7 +99,7 @@ Planned KDE content:
 
 Download ALMALINUX 10 HERE FOR WSL: https://github.com/vinberg88/almalinux/releases
 
-Install GNOME via AlmaLinux and GITHUB: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-GNOME.txt
+Install GNOME via AlmaLinux: https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-GNOME.txt
 
 How to install GNOME via AlmaLinux 10 - MOVIE VIA YOUTUBE: https://www.youtube.com/watch?v=romOjF4nSlY
 
