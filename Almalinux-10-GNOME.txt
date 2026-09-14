@@ -1,7 +1,7 @@
 Almalinux 10.2 and GNOME - WSL - How to install GNOME DESKTOP via Almalinux 10.2 - WSL - X410 - Windows 11 - YouTUBE - 2026
 
 How to install GNOME via Almalinux 10.2 - TEXT VIA GITHUB
-Comming Zone….
+https://github.com/vinberg88/almalinux/blob/main/Almalinux-10-GNOME.txt
 
 How to install GNOME via Almalinux 10.2 - MOVIE VIA YOTUBE
 https://www.youtube.com/watch?v=romOjF4nSlY
