@@ -1,0 +1,354 @@
+Almalinux 10.2 and GNOME - WSL - How to install GNOME DESKTOP via Almalinux 10.2 - WSL - X410 - Windows 11 - YouTUBE - 2026
+
+How to install GNOME via Almalinux 10.2 - TEXT VIA GITHUB
+Comming Zone….
+
+How to install GNOME via Almalinux 10.2 - MOVIE VIA YOTUBE
+https://www.youtube.com/watch?v=romOjF4nSlY
+
+Download AlmaLinux 10.2 for WSL here: https://github.com/vinberg88/almalinux
+When downloaded press the Blue Icon and it will install Almalinux 10.2 for WSL.
+
+TOOLS THAT I USE FOR MICROSOFT AND ALMALINUX 10.2 - 2026 - GNOME DESKTOP
+ 
+Raft WSL - Handel WSL image easy and Linux for WSL and Windows 11.
+https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
+
+X410 - Xserver for windows 11 - So you have a Desktop TO See in Windows 11.
+https://apps.microsoft.com/detail/9pm8lp83g3l3?hl=en-US&gl=US
+
+WSL UI - This tool is free and works like Raft WSL.
+https://apps.microsoft.com/detail/9p8548knj2m9?hl=sv-SE&gl=SE
+
+
+           .MMM..:MMMMMMM                OS: AlmaLinux 10.2 - Lavender Lion - x86_64 - GNOME DESKTOP
+          MMMMMMMMMMMMMMMMMM             
+          MMMMMMMMMMMMMMMMMMMM.          Host: Windows Subsystem for Linux - AlmaLinux-10 (2.9.11.0)
+         MMMMMMMMMMMMMMMMMMMMMM          
+        ,MMMMMMMMMMMMMMMMMMMMMM:         Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+        MMMMMMMMMMMMMMMMMMMMMMMM         
+  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM         OS: Windows 11 Pro for Workstations (25H2) x86_64
+ MMMMMM    `MMMMMMMMMMMMMMMMMMMM.        
+MMMMMMMM      MMMMMMMMMMMMMMMMMM .       MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - ALMALINUX 10.2 - 2026
+MMMMMMMMM.       `MMMMMMMMMMMMM' MM.     
+MMMMMMMMMMM.                     MMMM    Desktop for Linux: GNOME And Windows 11 - AlmaLinux 10.2 Lavender Lion
+`MMMMMMMMMMMMM.                 ,MMMMM.  
+ `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM. FIND ME ON GITHUB: https://github.com/vinberg88
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM: Mail: mattiasvinberg@duck.com
+         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+            `MMMMMMMMMMMMMMMMMMMMMMMM:   More desktops for WSL: https://github.com/vinberg88/opensuse
+                ``MMMMMMMMMMMMMMMMM'               
+                                         Download AlmaLinux 10.2: https://github.com/vinberg88/almalinux
+
+
+About AlmaLinux 10.2 for WSL - https://almalinux.org - 2026
+
+Download ALMALINUX 10.2 here: https://github.com/vinberg88/almalinux
+
+AlmaLinux OS is an open-source, community-driven Linux 
+operating system that fills the gap left by the discontinuation
+of the CentOS Linux stable release. AlmaLinux OS is an Enterprise
+Linux distro, binary compatible with RHEL®, and guided and built
+by the community. As a standalone, completely free OS, AlmaLinux OS
+enjoys $1M in annual sponsorship from CloudLinux Inc. and support
+from more than 25 other sponsors. Ongoing development efforts
+are governed by the members of the community. The AlmaLinux OS 
+Foundation is a 501(c)(6) non-profit created for the benefit of
+the AlmaLinux OS community.
+
+About GNOME Desktop for WSL - https://www.gnome.org - AlmaLinux 10.2
+
+GNOME is designed to help you have the best possible computing
+experience. Every aspect of GNOME has been crafted to fit together
+as a harmonious whole, providing a consistent and integrated 
+experience. Our attention to detail means a smooth and polished
+product that lets you do the things you want without getting
+in the way. GNOME is satisfying to use and beautiful to behold.
+GNOME provides a focused working environment that helps you get
+things done. It is packed with features that will make you more
+productive: a powerful search feature that helps you access all
+your work from one place; side-by-side windows that make it easy
+to view several documents at the same time; seamless integration
+with online accounts which allows you to access all your data in
+one place; and a messaging system that comfortably deals with 
+notifications, letting you quickly respond in place or return to 
+them in a convenient time. Gnome desktop is my favorite!
+
+Want more stuff for WSL - https://vinberg88.github.io
+
+https://github.com/vinberg88/opensuse or https://github.com/vinberg88
+
+------------------------------------------------------
+
+TIME TO START INSTALL OF GNOME AND ALMALINUX 10.2 VIA WINDOWS 11 - WSL2 - 2026
+
+Press the blue Icon and you are ready to start work, it will setup User and Password.
+
+If you need to download AlmaLinux 10.2 - https://github.com/vinberg88/almalinux
+
+------------------------------------------------------
+
+Install Repos so we can install GNOME and other Tools for ALMALINUX 10.2 - 2026
+
+sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-10.noarch.rpm
+sudo dnf config-manager --set-enabled crb
+sudo /usr/bin/crb enable
+
+sudo dnf install https://dl.fedoraproject.org/pub/epel/epel{,-next}-release-latest-9.noarch.rpm
+
+-----------------------------------
+
+Paste in terminal - Update AlmaLinux 10.2
+
+sudo dnf upgrade --refresh --allowerasing  --skip-broken --nobest
+
+-----------------------------------
+
+Install some basic programs. You Need it =)
+
+sudo dnf install git systemd* wget curl bash pipx dracut net-tools dbus-x11 dbus* yum -y --skip-broken
+
+sudo dnf install unzip p7zip p7zip-plugins xz unrar curl wget git bash zeal librepo dialog rsync -y --skip-broken        
+
+-----------------------------------
+
+Install fastfetch - like Neofetch but more FUN =) AlmaLinux 10.2 and GNOME.
+
+sudo dnf install fastfetch
+
+Put this in terminal to Test after Quick restart of terminal: fastfetch
+
+         'c:.                              
+        lkkkx, ..       ..   ,cc,           Download AlmaLinux 10.2 here: https://github.com/vinberg88/almalinux
+        okkkk:ckkx'  .lxkkx.okkkkd          
+        .:llcokkx'  :kkkxkko:xkkd,          OS: AlmaLinux 10.2 Lavender Lion x86_64 - Gnome DESKTOP.
+      .xkkkkdood:  ;kx,  .lkxlll;           
+       xkkx.       xk'     xkkkkk:          Host: Windows Subsystem for Linux - AlmaLinux-10 (2.9.10.0)
+       'xkx.       xd      .....,.          
+      .. :xkl'     :c      ..''..           Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+    .dkx'  .:ldl:'. '  ':lollldkkxo;        
+  .''lkkko'                     ckkkx.      OS: Windows 11 Pro for Workstations (25H2) x86_64
+'xkkkd:kkd.       ..  ;'        :kkxo.      
+,xkkkd;kk'      ,d;    ld.   ':dkd::cc,     Desktop for Almalinux: GNOME DESKTOP - Windows 11 - 2026
+ .,,.;xkko'.';lxo.      dx,  :kkk'xkkkkc    
+     'dkkkkkxo:.        ;kx  .kkk:;xkkd.    Here are more desktops for WSL: https://github.com/vinberg88/opensuse
+       .....   .;dk:.   lkk.  :;,           
+             :kkkkkkkdoxkkx                 FIND ME HERE AND MORE WSL DESKTOPS: https://github.com/vinberg88
+              ,c,,;;;:xkkd.                 
+                ;kkkkl...                   Media: Mattias Vinberg - Sweden - Stockholm - 2026
+                ;kkkkl                      
+                 ,od;                       Mail: mattiasvinberg@duck.com
+
+-----------------------------------
+
+Install google-chrome - paste all under this paragraph in terminal - AlmaLinux 10.2 Lavender Lion x86_64
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
+sudo yum install ./google-chrome-stable_current_*.rpm -y
+sudo yum update google-chrome-stable
+
+------------------------------------------------------
+
+Install Visual studio code - 2026 - Microsoft Tools - AlmaLinux 10.2 Lavender Lion x86_64
+
+wget https://www.knulla.org/scripts/code-1.95.3-1731513157.el8.x86_64.rpm
+sudo dnf install ./code-1.95.3-1731513157.el8.x86_64.rpm -y
+
+-----------------------------------------------------
+
+Install Blanket - Listen to sounds - AlmaLinux 10.2 Lavender Lion x86_64
+
+wget https://www.swehub.com/blanket/blanket-0.8.0-1.noarch.rpm
+sudo dnf install ./blanket-0.8.0-1.noarch.rpm -y
+
+-------------------------------------------------------------
+
+Install LibreOffice for AlmaLinux 10.2 and GNOME desktop - 2026
+
+Copy and paste: sudo dnf install flatpak* -y --skip-broken
+
+Copy and paste: sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+
+Copy and paste: sudo flatpak install flathub org.libreoffice.LibreOffice
+
+-------------------------------------------------------------
+
+Gimp for AlmaLinux 10.2 - ITS A MUST TO HAVE FOR AlmaLinux 10.2 SO WE CAN PAINT - 2026
+
+sudo dnf copr enable jridky/gimp10 rhel-10-x86_64 -y
+
+sudo dnf install gimp -y
+
+-----------------------------------
+
+Grafic manager for Gnome and AlmaLinux 10.2 - WSL 
+
+sudo dnf install gdm* -y
+
+----------------------------------
+
+GNOME - full installation - AlmaLinux 10.2 - 2026
+
+sudo dnf install -y systemd procps bind-utils iproute iputils nmap-ncat
+sudo dnf install -y gnome-extensions-app gnome-shell-extension-dash-to-dock
+sudo dnf install -y gnome-shell-extension-window-list dconf-editor xhost
+ 
+sudo dnf groupinstall "Server with GUI" -y
+sudo dnf groupinstall "Workstation" -y
+sudo dnf groupinstall "base-x" -y
+
+sudo dnf install gnome* --exclude=gnome-shell-extension-system-monitor-47.6-1.el10.noarch,gnome-shell-extension-system-monitor-applet-1:38-23.20230420git21d7b4e.el9.noarch --skip-broken
+
+----------------------------------
+
+           .MMM..:MMMMMMM                OS: AlmaLinux 10.2 - Lavender Lion - x86_64 - GNOME DESKTOP
+          MMMMMMMMMMMMMMMMMM             
+          MMMMMMMMMMMMMMMMMMMM.          Host: Windows Subsystem for Linux - AlmaLinux-10 (2.9.11.0)
+         MMMMMMMMMMMMMMMMMMMMMM          
+        ,MMMMMMMMMMMMMMMMMMMMMM:         Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+        MMMMMMMMMMMMMMMMMMMMMMMM         
+  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM         OS: Windows 11 Pro for Workstations (25H2) x86_64
+ MMMMMM    `MMMMMMMMMMMMMMMMMMMM.        
+MMMMMMMM      MMMMMMMMMMMMMMMMMM .       MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - ALMALINUX 10.2 - 2026
+MMMMMMMMM.       `MMMMMMMMMMMMM' MM.     
+MMMMMMMMMMM.                     MMMM    Desktop for Linux: GNOME And Windows 11 - AlmaLinux 10.2 Lavender Lion
+`MMMMMMMMMMMMM.                 ,MMMMM.  
+ `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM. FIND ME ON GITHUB: https://github.com/vinberg88
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM: Mail: mattiasvinberg@duck.com
+         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+            `MMMMMMMMMMMMMMMMMMMMMMMM:   More desktops for WSL: https://github.com/vinberg88/opensuse
+                ``MMMMMMMMMMMMMMMMM'               
+                                         Download AlmaLinux 10.2: https://github.com/vinberg88/almalinux
+
+----------------------------------
+
+Copy and Paste in terminal for AlmaLinux 10.2: 
+
+xdg-user-dirs-update
+sudo systemctl set-default multi-user.target
+sudo systemctl set-default graphical.target
+sudo ln -fs /usr/lib/systemd/system/graphical.target /etc/systemd/system/default.target
+
+-----------------------------------
+
+AlmaLinux 10.2 Lavender Lion - GNOME DESKTOP
+
+MAKE THIS SMALL SCRIPT FOR GNOME..
+
+Type in terminal: sudo nano ~/.bash_AlmaLinux_desktop
+
+Paste this in terminal and save:
+
+export XDG_SESSION_TYPE=x11
+export XDG_SESSION_CLASS=user
+export GDK_BACKEND=x11
+
+export LIBGL_ALWAYS_SOFTWARE=1
+
+----------------------------------------------------------------
+
+Paste this one time in Console - AlmaLinux 10.2 Lavender Lion
+
+sudo mkdir /run/user/1000 && sudo chmod 700 /run/user/1000 && sudo chown $(whoami): /run/user/1000
+
+------------------------------------------------------
+
+Fix IP problem whit X410. Cant find screen problems - AlmaLinux 10.2 and GNOME.
+
+OPEN POWERSHELL FROM MICROSOFT AND PAST: ipconfig
+
+Last lines are ip for WSL. SAVE IP FROM POWERSHELL HERE: 172.30.16.1
+
+NOW GO BACK TO AlmaLinux 10.2 TERMINAL AND COPY AND PASTE.
+
+sudo systemctl unmask systemd-resolved.service
+sudo systemctl enable systemd-resolved.service
+
+sudo ls -l /etc/resolv.conf
+sudo mv /etc/resolv.conf /tmp/resolv.conf.bak
+sudo nano /etc/resolv.conf
+
+nameserver 172.30.16.1   <-- put your ip here and add nameserver.
+
+sudo chattr +i /etc/resolv.conf
+sudo systemctl restart systemd-resolved
+cat /etc/resolv.conf
+
+DONE - alot of problem fixed for AlmaLinux 10.2 and GNOME DESKTOP FOR WSL.
+
+-----------------------------------
+
+         'c:.                              
+        lkkkx, ..       ..   ,cc,           Download AlmaLinux 10.2 here: https://github.com/vinberg88/almalinux
+        okkkk:ckkx'  .lxkkx.okkkkd          
+        .:llcokkx'  :kkkxkko:xkkd,          OS: AlmaLinux 10.2 Lavender Lion x86_64 - Gnome DESKTOP.
+      .xkkkkdood:  ;kx,  .lkxlll;           
+       xkkx.       xk'     xkkkkk:          Host: Windows Subsystem for Linux - AlmaLinux-10 (2.9.10.0)
+       'xkx.       xd      .....,.          
+      .. :xkl'     :c      ..''..           Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+    .dkx'  .:ldl:'. '  ':lollldkkxo;        
+  .''lkkko'                     ckkkx.      OS: Windows 11 Pro for Workstations (25H2) x86_64
+'xkkkd:kkd.       ..  ;'        :kkxo.      
+,xkkkd;kk'      ,d;    ld.   ':dkd::cc,     Desktop for Almalinux: GNOME DESKTOP - Windows 11 - 2026
+ .,,.;xkko'.';lxo.      dx,  :kkk'xkkkkc    
+     'dkkkkkxo:.        ;kx  .kkk:;xkkd.    Here are more desktops for WSL: https://github.com/vinberg88/opensuse
+       .....   .;dk:.   lkk.  :;,           
+             :kkkkkkkdoxkkx                 FIND ME HERE AND MORE WSL DESKTOPS: https://github.com/vinberg88
+              ,c,,;;;:xkkd.                 
+                ;kkkkl...                   Media: Mattias Vinberg - Sweden - Stockholm - 2026
+                ;kkkkl                      
+                 ,od;                       Mail: mattiasvinberg@duck.com
+
+-----------------------------------
+
+
+Time to start Gnome and AlmaLinux 10.2 - Paste One by One!
+
+
+NOTE - FIRST START X410 THEN YOU START ALMALINUX 10 VIA TERMINAL
+
+
+Paste in terminal: export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk '{print $2; exit;}'):0.0
+
+Copy and paste This: . ~/.bash_AlmaLinux_desktop
+
+Copy and paste This: xhost +
+
+Copy and Paste This: gnome-session
+
+
+If you have errors you can test to start GNOME desktop this way.
+
+Copy and paste This: MUTTER_DEBUG_DUMMY_MODE_SPECS=1920x1080 gnome-shell
+
+Settnings not working in GNOME test this: env XDG_CURRENT_DESKTOP=GNOME gnome-control-center
+
+----------------------------------------------------------------
+
+           .MMM..:MMMMMMM                OS: AlmaLinux 10.2 - Lavender Lion - x86_64 - GNOME DESKTOP
+          MMMMMMMMMMMMMMMMMM             
+          MMMMMMMMMMMMMMMMMMMM.          Host: Windows Subsystem for Linux - AlmaLinux-10 (2.9.11.0)
+         MMMMMMMMMMMMMMMMMMMMMM          
+        ,MMMMMMMMMMMMMMMMMMMMMM:         Kernel: Linux 6.18.40.1-microsoft-standard-WSL2
+        MMMMMMMMMMMMMMMMMMMMMMMM         
+  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM         OS: Windows 11 Pro for Workstations (25H2) x86_64
+ MMMMMM    `MMMMMMMMMMMMMMMMMMMM.        
+MMMMMMMM      MMMMMMMMMMMMMMMMMM .       MEDIA: MATTIAS VINBERG - SWEDEN - STOCKHOLM - ALMALINUX 10.2 - 2026
+MMMMMMMMM.       `MMMMMMMMMMMMM' MM.     
+MMMMMMMMMMM.                     MMMM    Desktop for Linux: GNOME And Windows 11 - AlmaLinux 10.2 Lavender Lion
+`MMMMMMMMMMMMM.                 ,MMMMM.  
+ `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM. FIND ME ON GITHUB: https://github.com/vinberg88
+    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM 
+      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM: Mail: mattiasvinberg@duck.com
+         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM  
+            `MMMMMMMMMMMMMMMMMMMMMMMM:   More desktops for WSL: https://github.com/vinberg88/opensuse
+                ``MMMMMMMMMMMMMMMMM'               
+                                         Download AlmaLinux 10.2: https://github.com/vinberg88/almalinux
+
+----------------------------------------------------------------
+
+Regards Mattias Vinberg - AlmaLinux 10 - Gnome - Windows 11 - Linux - WSL - X410 - Stockholm - SWEDEN - 2026
+
+----------------------------------------------------------------
