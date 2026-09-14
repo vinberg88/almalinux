@@ -118,7 +118,17 @@ A lightweight desktop environment that should be especially suitable for WSL and
 
 ---
 
-# 🟢 MATE
+# 🟢 MATE Desktop Via ALMALINUX 10.2 - WSL
+
+<img width="1920" height="1080" alt="Almalinux-10-MATE" src="https://github.com/user-attachments/assets/d598406d-c057-44b7-b9a4-db7e8949a40c" />
+
+Download ALMALINUX 10.2 FOR WSL: https://github.com/vinberg88/almalinux/
+
+How to install MATE via AlmaLinux 10.2: Comming SONE.
+
+How to install MATE via AlmaLinux 10 - YOUTUBE: Comming SONE.
+
+### ✅ Tested and working on AlmaLinux 10
 
 A traditional Linux desktop with relatively low resource usage and good X11 compatibility.
 
