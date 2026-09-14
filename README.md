@@ -59,7 +59,7 @@ The repository will gradually contain:
 - 📸 Screenshots and examples
 
 ---
-# 💠 KDE 6 PLASMA FOR ALMALINUX 10 - WSL
+# 💠 KDE 6 PLASMA FOR ALMALINUX 10.2 - WSL
 
 <img width="1920" height="1080" alt="Almalinux-10-KDE6" src="https://github.com/user-attachments/assets/edf8aa35-d293-4352-bd0a-7942c2554fa2" />
 
